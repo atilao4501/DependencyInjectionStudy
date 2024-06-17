@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0WvTRTY+yk=",
+  "dgSpecHash": "CuXbU66xkCA=",
   "success": true,
-  "projectFilePath": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction/DependencyInjectionIntroduction.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction.csproj",
+  "expectedPackageFiles": [
+    "/home/atila-alcantara/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/atila-alcantara/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction/DependencyInjectionIntroduction.csproj": {}
+    "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction.csproj": {}
   },
   "projects": {
-    "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction/DependencyInjectionIntroduction.csproj": {
+    "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction/DependencyInjectionIntroduction.csproj",
+        "projectUniqueName": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction.csproj",
         "projectName": "DependencyInjectionIntroduction",
-        "projectPath": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction/DependencyInjectionIntroduction.csproj",
+        "projectPath": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction.csproj",
         "packagesPath": "/home/atila-alcantara/.nuget/packages/",
-        "outputPath": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/DependencyInjectionIntroduction/obj/",
+        "outputPath": "/home/atila-alcantara/Documentos/Learning/DependencyInjectionCourse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/atila-alcantara/.nuget/NuGet/NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
